@@ -25,7 +25,7 @@ export default class Recipes extends Component {
   render() {
     return (
       <>
-        <Search recipes={this.state.search} handleChange={this.handleChange} handleSubmit={this.handleSubmit}/>
+        <Search search={this.state.search} handleChange={this.handleChange} handleSubmit={this.handleSubmit}/>
         <RecipeList recipes={this.state.recipes}/>
       </>
     )

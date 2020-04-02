@@ -6,7 +6,7 @@ export const recipeData = [
       "http://www.closetcooking.com/2011/04/jalapeno-popper-grilled-cheese-sandwich.html",
     recipe_id: "35382",
     image_url:
-      "http://static.food2fork.com/Jalapeno2BPopper2BGrilled2BCheese2BSandwich2B12B500fd186186.jpg"
+      "https://www.allrecipes.com/recipe/214020/shakshuka-middle-eastern-breakfast-dish/?internalSource=rotd&referringId=78&referringContentType=Recipe%20Hub"
   },
   {
     publisher: "The Pioneer Woman",
