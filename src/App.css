@@ -13,3 +13,13 @@ body {
 .letter-spacing {
   letter-spacing: 0.5rem;
 }
+
+.header-hero, .default-hero {
+  height: calc(100vh - 56px);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('./images/homeBcg.jpeg') center/cover no-repeat;
+  
+}
+
+.default-hero {
+  background: linear-gradient(rgba(201, 28, 28, 0.5), rgba(0, 0, 0, 0.7)), url('./images/defaultBcg.jpeg') center/cover no-repeat;
+}
